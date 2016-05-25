@@ -6,7 +6,7 @@ Total de receitas: **8183**
 
 ## Estrutura do JSON
 
-```json
+```
 {
   "_id": ObjectId("5744eff20ca7832b5c745a48"),
   "nome": "Brownie de Chocolate com Gengibre",
