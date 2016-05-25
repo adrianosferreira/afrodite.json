@@ -57,3 +57,9 @@ Total de receitas: **8183**
   ]
 }
 ```
+
+## Importando no MongoDB
+
+```
+mongoimport --db afrodite --collection receitas --file afrodite.json --jsonArray
+```
