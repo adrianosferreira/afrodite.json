@@ -4,6 +4,8 @@ Simplesmente o maior livro de receitas em língua portuguesa que você irá enco
 
 Total de receitas: **8183**
 
+Informações técnicas: o JSON foi obtido a partir de um web crawler escrito em JS e rodado em Node.js.
+
 ## Estrutura do JSON
 
 ```
